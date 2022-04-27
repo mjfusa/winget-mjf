@@ -1,0 +1,12 @@
+﻿{
+    "PackageIdentifier":  "MikeFrancis.HelloMSIXWorld",
+    "PackageVersion":  "1.0.1.0",
+    "PackageLocale":  "en-US",
+    "Publisher":  "@MikeFrancis",
+    "PackageName":  "Hello MSIX World",
+    "License":  "MIT",
+    "ShortDescription":  "MSIX Packaged Hello World",
+    "ManifestType":  "defaultLocale",
+    "ManifestVersion":  "1.1.0",
+    "Tags":  ""
+}
